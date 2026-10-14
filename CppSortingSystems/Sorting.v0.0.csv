@@ -1,0 +1,9 @@
+Sorting,v0.0
+
+RESULTS
+Benchmark Name, Average, Min, Max
+-QuickSort,9.41386s,9.41386s,9.41386s,
+
+TIMES
+Test ID, Benchmark Name, Average, Min, Max
+-0,QuickSort,9.41386s,9.41386s,9.41386s,

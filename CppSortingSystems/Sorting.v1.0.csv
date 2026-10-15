@@ -7,7 +7,7 @@ Benchmark Name, Average, Min, Max
 -InsertionSort,-nan(ind)s,1.79769e+308s,2.22507e-308s,
 -MergeSort,-nan(ind)s,1.79769e+308s,2.22507e-308s,
 -QuickSort,-nan(ind)s,1.79769e+308s,2.22507e-308s,
--SelectionSort,199.342s,0.0005417s,987.561s,
+-SelectionSort,216.518s,0.0005417s,987.561s,
 
 TIMES
 Test ID, Benchmark Name, Average, Min, Max
@@ -41,3 +41,9 @@ Test ID, Benchmark Name, Average, Min, Max
 -4,MergeSort,0.0405991s,0.0360503s,0.0492621s,
 -4,QuickSort,0.0414723s,0.0357119s,0.0548977s,
 -4,SelectionSort,9.04404s,8.82777s,9.60102s,
+-5,BubbleSort,1058.67s,1058.67s,1058.67s,
+-5,HeapSort,1.38911s,1.38911s,1.38911s,
+-5,InsertionSort,215.994s,215.994s,215.994s,
+-5,MergeSort,0.42267s,0.42267s,0.42267s,
+-5,QuickSort,0.573001s,0.573001s,0.573001s,
+-5,SelectionSort,302.4s,302.4s,302.4s,

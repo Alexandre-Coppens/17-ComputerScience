@@ -4,7 +4,7 @@
 #include <iostream>
 #include "Benchmark.h"
 
-const int arraySize = 100000;
+const int arraySize = 1000000;
 int array[arraySize];
 
 void GenerateArray();
@@ -24,7 +24,7 @@ int main()
     Benchmark::LoadFile("Sorting", "1.0");
 
     //ALGORITHMS
-    for (int i = 0; i < 100; i++)
+    for (int i = 0; i < 1; i++)
     {
         GenerateArray();
         BubbleSort();
